@@ -1,5 +1,6 @@
 ---
 title: "Lab Assignments"
-layout: posts
-permalink: /lab/
+layout: category
+taxonomy: Labs
+permalink: /labs/
 ---

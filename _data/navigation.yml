@@ -1,8 +1,10 @@
 main:
   - title: "News"
     url: /news/
+  - title: "Readings"
+    url: /readings/
   - title: "Labs"
-    url: /lab/
+    url: /labs/
   - title: "Archive"
     url: /archive/
   - title: "Tags"

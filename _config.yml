@@ -109,12 +109,14 @@ defaults:
 
   - scope:
       path: "_posts/labs"
-      type: posts
     values:
-      layout: single
-      author_profile: false
       categories:
         - Labs
+  - scope:
+      path: "_posts/readings"
+    values:
+      categories:
+        - Readings
 
 category_archive:
   type: liquid

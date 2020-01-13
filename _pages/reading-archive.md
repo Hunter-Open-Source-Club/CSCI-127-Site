@@ -1,5 +1,6 @@
 ---
 title: "Readings"
-layout: posts
+layout: category
+taxonomy: Readings
 permalink: /readings/
 ---
