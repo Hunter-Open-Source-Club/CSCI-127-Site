@@ -1,7 +1,7 @@
 ---
 title: "Intro to CS Course Website CSCI 127"
 author: rvente
-date: 2019 10 17
+date: 2019-10-17
 toc: true
 theme: metropolis
 links-as-notes: true
