@@ -2,6 +2,8 @@
 title: "Intro to CS Course Website CSCI 127"
 author: rvente
 toc: true
+type: pages
+layout: posts
 theme: metropolis
 links-as-notes: true
 header-includes:
