@@ -1,5 +1,5 @@
 ---
-title: "Intro to CS Course Website CSCI 127"
+title: "Intro to CS Course Website CSCI 135"
 author: rvente
 toc: true
 type: pages
@@ -60,7 +60,7 @@ header-includes:
 
 # Demo
 
-* [Adding a Lab](https://github.com/Hunter-Open-Source-Club/CSCI-127-Site)
+* [Adding a Lab](https://github.com/Hunter-Open-Source-Club/CSCI-135-Site)
 
 # Development
 
@@ -80,8 +80,6 @@ Then, intitialize the local development environment using
 
 * Visit `localhost:4000` to see the site on your local server. Kill the server using `CTRL+C` in the appropriate terminal.
 
-
 # Additional Documentation
 
  - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
