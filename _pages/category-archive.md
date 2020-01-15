@@ -1,6 +1,6 @@
 ---
-title: "Archive"
+title: "Posts By Type"
 layout: categories
-permalink: /archive/
+permalink: /categories/
 author_profile: false
 ---

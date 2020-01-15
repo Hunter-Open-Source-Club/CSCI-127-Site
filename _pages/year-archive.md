@@ -1,5 +1,5 @@
 ---
-title: "News"
-permalink: /news/
+title: "Archive"
+permalink: /archive/
 layout: posts
 ---
