@@ -113,10 +113,10 @@ defaults:
       categories:
         - Labs
   - scope:
-      path: "_posts/readings"
+      path: "_posts/projects"
     values:
       categories:
-        - Readings
+        - Projects
   - scope:
       path: "_posts/news"
     values:
